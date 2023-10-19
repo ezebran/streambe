@@ -2,8 +2,9 @@
 
 Un Coding Challenge de [Streambe](https://streambe.com/es/home/):
 * Para Ingresar debe usar el email *tom.manchini@yopmail.com*
-
-[Ver proyecto montado en Vercel](https://aeroshop-challenge.vercel.app/) _Puede Tardar unos segundos en cargar dado que esta alojado en una cuenta gratuita_
+* Dado que la API no contaba con una contraseña para matchear *se debe ingresar cualquier texto en el campo de la contraseña*
+  
+[Ver proyecto montado en Vercel](https://streambe.vercel.app/) _Puede Tardar unos segundos en cargar dado que esta alojado en una cuenta gratuita_
 
 ## 📋 Pasos para el desarrollo
 
